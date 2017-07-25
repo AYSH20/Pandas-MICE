@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 24 08:57:20 2017
 
-@author: JEWeinberg
-"""
 
 from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.preprocessing import Imputer
